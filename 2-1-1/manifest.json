@@ -13,6 +13,9 @@
         "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/{id}/subjects.json",
         "Version": 1
     }
-
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/{id}/policy.json",
+        "Version": 1
+    }
 }
 
