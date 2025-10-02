@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Hello",
+    "OrganizationName": "for west campus",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 1
@@ -13,6 +13,7 @@
         "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/{id}/subjects.json",
         "Version": 1
     }
+    
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/{id}/policy.json",
         "Version": 1
