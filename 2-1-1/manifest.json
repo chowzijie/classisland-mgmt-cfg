@@ -2,15 +2,16 @@
     "ServerKind": 0,
     "OrganizationName": "Hello",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/2-1-1/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/2-1-1/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/2-1-1/subjects.json",
         "Version": 1
     }
+
 }
