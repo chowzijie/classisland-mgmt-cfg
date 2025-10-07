@@ -2,20 +2,20 @@
     "ServerKind": 0,
     "OrganizationName": "for west campus",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/211/classplans.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/main/211/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/211/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/main/211/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/211/subjects.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/main/211/subjects.json",
         "Version": 1
     }
     
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/master/211/policy.json",
+        "Value": "https://raw.githubusercontent.com/chowzijie/classisland-mgmt-cfg/main/211/policy.json",
         "Version": 1
     }
 }
